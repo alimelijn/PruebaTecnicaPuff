@@ -1,0 +1,68 @@
+
+.col1 {
+  width: 50%;
+  height: 500px;
+  float: left;
+  padding-top: 16%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-image: url("../../../assets/PufiRainFoto.jpg");
+}
+
+.col2 {
+  width: 50%;
+  height: 500px;
+  float: left;
+  padding-top: 13%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-color: white;
+}
+
+.col3 {
+  width: 50%;
+  height: 500px;
+  float: left;
+  padding-top: 16%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-image: url("../../../assets/PufiPuffFoto.jpg");
+}
+
+.col4 {
+  width: 50%;
+  height: 500px;
+  float: left;
+  padding-top: 16%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-image: url("../../../assets/PufiCart.jpg");
+}
+
+.col5 {
+  width: 50%;
+  height: 500px;
+  float: left;
+  padding-top: 16%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background-image: url("../../../assets/PufiNapFoto.jpg");
+  margin-bottom: 10%;
+}
+
+.shopButton {
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+  background-color: inherit;
+  border-radius: 0% !important;
+  border-color: white !important;
+  border: 4 !important ;
+  align-items: center;
+  align-content: center;
+}

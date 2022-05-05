@@ -1,0 +1,19 @@
+.containerCarousel {
+ 
+}
+
+.shopButton{
+  width: 100px;
+  height: 50px;
+  margin: 20px;
+  background-color: inherit;
+  border-radius: 0% !important;
+  border-color: white !important;
+  border: 4 !important ;
+  align-items: center;
+  align-content: center;
+}
+
+.shopTitle{
+  color: white;
+}

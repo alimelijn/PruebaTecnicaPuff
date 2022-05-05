@@ -1,0 +1,17 @@
+.container {
+}
+
+.footerBox {
+  border-top: 1;
+  box-shadow: 3px 3px red, -1em 0 0.4em black !important;
+}
+
+.colfooter {
+  float: left;
+  width: 100px;
+  margin-right: 10%;
+}
+
+.titleFooter {
+  margin-right: 2%;
+}

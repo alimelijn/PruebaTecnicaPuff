@@ -1,0 +1,15 @@
+.boxBar {
+  padding-left: 35%;
+}
+
+.list {
+  list-style: none;
+  text-decoration: none;
+  margin-right: 2%;
+}
+
+.titleBar {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}

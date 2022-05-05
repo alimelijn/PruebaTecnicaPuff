@@ -12,7 +12,7 @@ const Suscription = () => {
 
     if (regEx.test(email)) {
         const numeroCaracteres = email.length
-        if (numeroCaracteres % 2 === 0) {
+        if (numeroCaracteres % 2 == 0) {
             setMessage("La cantidad de caracteres es un numero par: " + numeroCaracteres);  
         } else {
             setMessage("La cantidad de caracteres es un numero impar: " + numeroCaracteres);
